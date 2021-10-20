@@ -1,23 +1,11 @@
-### This is an open-source repository that collects different projects.
+# Annoying Button Game
 
-# Make some awesome projects, put them in your directory and create a pull request.
+Buttons are annoying when they seem to be moving around!
 
-***
+This is a game where you have to find the correct button out of all the buttons before the timer finishes.
 
-### Steps to contribute
-# 👉 Fork this repository
-# 👉 Clone the repository
-# 👉 Create a branch ```projectname-username-branch```
-# 👉 Add your projects in the respective directory (if exist otherwise create one), the name of directory should be your ```ProjectName/USERNAME```
-# 👉 Attach some SCREENSHOTS or GIF of your working project in the description _❗Important❗_. 
-# 👉 Add ```One project``` at a time
-# 👉 Add & commit
-# 👉 Push changes to GitHub
-# 👉 Compare & Submit a Pull Request
-# 👉 Leave a ⭐ if you liked working on the project.
+How to play:
 
-We're happy to merge awesome portfolio to this repository!
-
-***
-
-# Hurray! Now you are a part of open source community 🚀🚀🚀
+1. Click the start button.
+2. Click all the buttons until you win.
+3. Profit?
