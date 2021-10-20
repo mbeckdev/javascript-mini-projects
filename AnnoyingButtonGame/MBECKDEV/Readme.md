@@ -8,3 +8,4 @@ How to play:
 
 1. Click the start button.
 2. Click all the buttons until you win.
+3. Profit?
